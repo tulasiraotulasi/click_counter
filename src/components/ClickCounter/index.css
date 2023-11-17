@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+}
+.btn {
+  width: fit-content;
+  background-color: #007bff;
+  border-radius: 3px;
+}
